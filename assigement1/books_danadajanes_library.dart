@@ -1,4 +1,4 @@
-ECHO is on.
+ECHO is on.// هون لما عملت التيرمنال كوماند بالاوامر في امر ايكو
 
 // تعريف مكتبة الكتب كمجموعة (Map)
 Map<String, Map<String, dynamic>> libreries = {};
